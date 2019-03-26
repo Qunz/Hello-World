@@ -20,7 +20,6 @@ change by github
 again change by source tree
 change again by github
 
-<<<<<<< HEAD
 
 idea edit
 
@@ -39,8 +38,6 @@ git status
 
 source tree
 
-=======
->>>>>>> e7cb8be8b35ee9670b82425bdf036985b80bbd43
 add by github 2019年3月26日
 
 20点21分 idea
@@ -50,3 +47,8 @@ github 20点20分
 master-dev 
 
 github 20点44分
+
+
+master-dev 20点45分
+
+master-dev 20点46分
